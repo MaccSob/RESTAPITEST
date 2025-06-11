@@ -1,0 +1,23 @@
+{
+  "name": "restapitest",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "start": "node app.js"
+  },
+  "repository": {
+    "type": "module",
+    "url": "git+https://github.com/MaccSob/RESTAPITEST.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/MaccSob/RESTAPITEST/issues"
+  },
+  "homepage": "https://github.com/MaccSob/RESTAPITEST#readme",
+  "dependencies": {
+    "dotenv": "^16.5.0",
+    "express": "^5.1.0"
+  }
+}
